@@ -1,0 +1,8 @@
+langchain-core
+langchain-community
+fastapi
+uvicorn
+python-multipart
+pandas
+openpyxl
+docling
